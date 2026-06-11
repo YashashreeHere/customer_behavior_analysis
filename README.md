@@ -5,7 +5,7 @@ This project analyzes customer shopping behavior using retail transaction data. 
 
 ## Tools Used
 - Python (Pandas)
-- PostgreSQL
+- MySQL
 - Power BI
 - GitHub
 
